@@ -94,7 +94,7 @@ Provisioning users and groups in Microsoft Entra ID is a **core responsibility f
 
 | Step Description                     | Screenshot                                                                                               |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| User `az104-user1` created in Entra ID | ![User Created](https://github.com/miadco/az104-labs/blob/main/lab01-manage-azure-identities/screenshots/lab%201%20t%201.png?raw=true) |
+| User `az104-user1` created in Entra ID | ![User Created](https://github.com/user-attachments/assets/e65b20d6-1cab-4173-9849-8fcca3a97376) |
 | IT Lab Administrators group with members | ![Group Created](https://github.com/miadco/az104-labs/blob/main/lab01-manage-azure-identities/screenshots/lab%201%20t%202.png?raw=true) |
 
 ---
