@@ -107,7 +107,7 @@ These skills are directly relevant to **cloud administrators, IAM specialists, a
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Created Management Group `az104-mg1` | ![Management Group](https://github.com/miadco/az104-labs/blob/main/lab02a-manage-subscriptions-and-rbac/screenshots/lab%202a%20t%201.png?raw=true) |
 | Assigned Built-in VM Contributor Role | ![Built-in Role Assignment](https://github.com/user-attachments/assets/104b9405-4553-4222-9cbb-46500e6d6b0f) |
-| Created Custom RBAC Role | ![Custom Role](https://github.com/user-attachments/assets/9d221624-c2f9-476a-bead-b1abe6659e3f) |
+| Created Custom RBAC Role | ![Custom Role](https://github.com/user-attachments/assets/5e3666ad-3c48-47dd-9dd4-71e1770aae88) |
 | Verified Role Assignments in Activity Log | ![Activity Log](https://github.com/miadco/az104-labs/blob/main/lab02a-manage-subscriptions-and-rbac/screenshots/lab%202a%20t%204.png?raw=true) |
 
 ---
