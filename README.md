@@ -53,6 +53,7 @@ By documenting each stage with screenshots and detailed explanations, this proje
 | 01    | Manage Azure Active Directory Identities | Identity & Access Management |
 | 02a   | Manage Subscriptions and RBAC | Role-Based Access Control |
 | 02b   | Configure and Evaluate Azure Policy | Governance & Compliance |
+| 03    | Manage Azure resources by using Azure Resource Manager Templates | Azure Resources |
 | 07    | Configure Monitoring for Azure Resources | Observability & Monitoring |
 | 11    | Secure Azure Resources with RBAC, Policies, and Locks | Access Management & Protection |
 
