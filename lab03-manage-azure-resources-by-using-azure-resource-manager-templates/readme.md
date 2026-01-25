@@ -122,12 +122,13 @@ Infrastructure as Code is a critical skill for cloud administrators, security te
 
 ## 🖼️ Screenshots
 
-> *Optional section — add screenshots of key steps such as:*
+| Step Description | Screenshot |
+|------------------|------------|
+| **Task 1 –  Managed Disk Creation** <br> Create a managed disk in the Azure portal. Once the disk is deployed you will export a template that you can use in other deployments | ![Task 1](https://github.com/user-attachments/assets/29c7861e-b5d2-4ef9-87b9-01b5983e60dd) |
+| **Task 2 – Custom Deployment** <br> Edit an Azure Resource Manager template and then redeploy the template | ![Task 2a](https://github.com/user-attachments/assets/7fd48423-c60b-4341-9250-c3f336175492) |
+| **Task 4 – Deploy a template with the CLI** <br> Continue in the `Cloud Shell` select <b>Bash</b>. Ensure the command completes and the Provisioning State is Succeeded. | ![Task 2b](https://github.com/user-attachments/assets/6699f158-a9e8-4478-a3e9-fea468b017ae) |
+| **Task 5 – Deploy a resource by using Azure Bicep** <br> Confirm the disk was created. | ![Task 3](https://github.com/user-attachments/assets/6fea97cf-afb7-4a5e-a881-7690eb20b404) |
 
-* Managed disk creation
-* ARM template export
-* PowerShell and CLI deployments
-* Bicep deployment results
 
 ---
 
