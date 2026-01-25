@@ -122,12 +122,12 @@ Effective Azure networking enables organizations to:
 
 ## 🖼️ Screenshots
 
-> *Optional section — add screenshots of:*
+| Step Description | Screenshot |
+|------------------|------------|
+| **Task 1 –  Virtual network and subnet configuration** <br> Create the virtual network and the associated subnets to accommodate the existing resources and planned growth | ![Task 1](https://github.com/user-attachments/assets/688843bb-fe4a-4c97-89f5-4017c470117f) |
+| **Task 4 – DNS zone records and resolution testing** <br> Configure Azure DNS to resolve host names in your public domain.| ![Task 4](https://github.com/user-attachments/assets/2ee6b2a8-dcc1-47c8-a73b-15052a2fb816) |
+| **Task 4 – DNS zone records and resolution testing** <br> Verify the host name www.contoso.com resolves to the IP address you provided. This confirms name resolution is working correctly. | ![Task 2b](https://github.com/user-attachments/assets/beed7768-716f-4d06-ad2f-a3c576456ca6) |
 
-* Virtual network and subnet configuration
-* ARM template modifications
-* NSG inbound/outbound rule configuration
-* DNS zone records and resolution testing
 
 ---
 
