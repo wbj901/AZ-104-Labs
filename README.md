@@ -55,6 +55,7 @@ By documenting each stage with screenshots and detailed explanations, this proje
 | 02b   | Configure and Evaluate Azure Policy | Governance & Compliance |
 | 03    | Manage Azure resources by using Azure Resource Manager Templates | Azure Resources |
 | 04    | Implement Virtual Networking |  Virtual Networking |
+| 05    | Implement Intersite Connectivity | Intersite Connectivity |
 | 07    | Configure Monitoring for Azure Resources | Observability & Monitoring |
 | 11    | Secure Azure Resources with RBAC, Policies, and Locks | Access Management & Protection |
 
