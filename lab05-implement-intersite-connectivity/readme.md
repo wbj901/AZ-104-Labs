@@ -150,9 +150,9 @@ Implementing intersite connectivity allows organizations to:
 
 | Step Description | Screenshot |
 |------------------|------------|
-| **Task 1 –  Network Watcher connectivity test validating isolation prior to peering | ![Task 1](https://github.com/user-attachments/assets/688843bb-fe4a-4c97-89f5-4017c470117f) |
-| **Task 4 – Virtual network peering configuration.| ![Task 4](https://github.com/user-attachments/assets/2ee6b2a8-dcc1-47c8-a73b-15052a2fb816) |
-| **Task 4 – PowerShell-based connectivity validation | ![Task 2b](https://github.com/user-attachments/assets/beed7768-716f-4d06-ad2f-a3c576456ca6) |
+| **Task 3 –  Network Watcher connectivity test** <br> Verify that resources in peered virtual networks can communicate with each other. | ![Task 1](https://github.com/user-attachments/assets/6b764562-881d-4b6a-bee4-2a71e722606c) |
+| **Task 5 – PowerShell-based connectivity validation.** <br> Test the connection to the CoreServicesVM from the ManufacturingVM. | ![Task 5](https://github.com/user-attachments/assets/06bde20f-2d1b-46c1-8645-46c4834f013a) |
+| **Task 4 – Create a custom route** <br> Control network traffic between the perimeter subnet and the internal core services subnet | ![Task 2b](https://github.com/user-attachments/assets/b4b525f0-bac7-4e1d-bab8-1f91e4c8d6ac) |
 
 
 ---
