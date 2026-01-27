@@ -57,6 +57,10 @@ By documenting each stage with screenshots and detailed explanations, this proje
 | 04    | Implement Virtual Networking |  Virtual Networking |
 | 05    | Implement Intersite Connectivity | Intersite Connectivity |
 | 07    | Configure Monitoring for Azure Resources | Observability & Monitoring |
+| 09a   | Implement Web Apps | PaaS Compute Options |
+| 09b   | Implement Azure Container Instances | PaaS Compute Options |
+| 09c   | Implement Azure Container Apps |  PaaS Compute Options |
+| 10    | Implement Data Protection | Data Protection |
 | 11    | Secure Azure Resources with RBAC, Policies, and Locks | Access Management & Protection |
 
 Each lab directory includes:  
