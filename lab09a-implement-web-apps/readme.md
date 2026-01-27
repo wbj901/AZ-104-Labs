@@ -10,7 +10,6 @@
 - [Business Relevance](#-business-relevance)  
 - [Screenshots](#-screenshots)  
 - [Cleanup](#-cleanup)  
-- [Acknowledgments](#-acknowledgments)  
 
 ---
 
